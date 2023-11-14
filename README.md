@@ -83,9 +83,9 @@ If something is unclear you may need to do some research as dev won't assist you
 -  Once you find out the url click it, then navigate on Response, enable SSL Proxying.
 -  Close Marangoni's app's, relaunch it and navigate again into timetables, if all done correctly you will see into new Responses, you guessed, your data.
 -  Save it as `data.json` (replace extension if any) into your icloud drive, open file's app and share `data.json` with your computer.
--  Now, specify the path where you stored the data.json file into the Orange-ontime-offline.py code (line 12).
--  Hint, if you don't know how to get the `path` of `data.json`, drag and drog 'data.json' into terminal app, `path` will apper automatically.
--  Scan your badge and write the code into `Orange-ontime-offline.py` code (line 13)
+-  Now, specify the path where you stored the `data.json` file into the Orange-ontime-offline.py code (line 12).
+-  Hint, if you don't know how to get the `path` of `data.json`, drag and drop `data.json` into terminal app, `path` will apper automatically.
+-  Scan your badge with a barcode scanner and write it into `Orange-ontime-offline.py` code (line 13)
 -  Now you're all set to run your Discord bot.
 
 
@@ -97,11 +97,11 @@ python3
 ```
 followed by your `Orange-ontime-offline.py` file's `path`.
 
-To get familiar with commands, go to your discord seever and type `!ohelp` .
+To get familiar with commands use `!ohelp` .
 
 ## Disclaimer
 
-This tool, Orange-ontime-offline, is designed exclusively for educational purposes and is not associated with Marangoni in any manner. The project strictly refrains from involving the sharing of sensitive, private, or copyrighted data.
+Orange-ontime-offline, is designed exclusively for educational purposes and is not associated with Marangoni in any manner. The project strictly refrains from involving the sharing of sensitive, private, or copyrighted data.
 
 Users are urged to thoroughly read and comprehend the following points:
 
@@ -132,7 +132,7 @@ The developers of Orange-ontime-offline provide the following disclaimer:
 - **Images Licenses**: Attribution-NonCommercial 4.0 International License.
 
 
-For any inquiries or assistance, feel free to contact .
+For any inquiries or assistance, feel free to contact me.
 
 
 
